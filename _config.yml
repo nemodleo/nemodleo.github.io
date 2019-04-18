@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "NEMOd.LEO's Blog"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Hyun Park"
 description              : "An amazing website."
 url                      : "https://nemodleo.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
