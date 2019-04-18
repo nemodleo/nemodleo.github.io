@@ -20,7 +20,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "NEMOd.LEO's Blog"
 title_separator          : "-"
-name                     : "Hyun Park"
+name                     : "Hyun Park" #hidden
 description              : "An amazing website."
 url                      : "https://nemodleo.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -108,15 +108,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyun Park!"
+  name             : "Hyun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Korea"
+  email            : "nemod.leo@snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: nemod.leo@snu.ac.kr #mailto:your.name@email.com
+      url: #nemod.leo@snu.ac.kr #mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,7 +128,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/nemodleo/"# "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
